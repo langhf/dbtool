@@ -1,0 +1,6 @@
+.idea
+dist
+.vscode
+tmp
+vendor
+dbtool
